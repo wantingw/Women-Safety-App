@@ -1,5 +1,9 @@
 # :sunny: Women-Safety-App
 
+[TOC]
+
+
+
 ## 1. App Name
 
 - **Halo** - The angel ring, the protection to women's safety
@@ -61,3 +65,95 @@
 14. Language support: A feature that allows users to select a preferred language for the app interface and emergency alerts, to support non-native speakers.
 15. Integration with smart devices: The app should be able to integrate with smart devices such as smartwatches, smart home systems, and personal assistants to make it even more convenient to use.
 16. A timer event feature is a potential feature for a women safety app that allows users to set a timer for a specific duration of time, for example, when they are walking home alone at night. If the timer expires and the user has not deactivated it, an emergency alert will be automatically sent to pre-determined contacts or emergency services. This feature can provide an extra layer of protection for users and peace of mind knowing that they have an automatic safety net in case of an emergency.
+
+----
+
+## 4. Market Opportunities
+
+1. Personal Safety
+2. Crisis Response
+3. Business Opportunities
+4. Advertising
+5. Public Transportation
+6. International Market
+7. Goverment Partnerships
+
+--> Campus Women Students (Check #6)
+
+---
+
+## 5. Research on the Competitors
+
+1. #### BSafe
+
+   A personal safety app that allows users to set up a network of "guardians" who can be notified in case of an emergency, and includes features such as a panic button, GPS tracking, and the ability to make a fake call to escape a dangerous situation.
+
+2. #### Circle of 6
+
+   This app allows users to quickly contact a pre-selected group of friends in case of an emergency, and includes features such as the ability to send pre-written text messages or make a phone call.
+
+3. #### OnWatch
+
+   A personal safety app that includes features such as an emergency button, GPS tracking, and the ability to make a phone call or send a message to emergency contacts.
+
+4. #### Safetipin
+
+   This app provides safety information for women based on user-generated data, and includes features such as a panic button, GPS tracking, and the ability to send a message to emergency contacts.
+
+5. #### My Force
+
+   This app provides a personal security button and GPS tracking, and also allows users to call local emergency services with a single tap.
+
+6. #### Watch Over Me
+
+   This app allows users to set a "safety timer" for activities such as jogging or walking alone at night, and sends an alert to emergency contacts if the timer expires.
+
+
+
+Time Event feature apps: bSafe, Watch over me, react mobile, MySOS, VithU, StaySafe, I Feel Safe
+
+---
+
+
+
+6. ## Diffential from the App
+
+   - ##### Campus-specific features: 
+
+     - Integrate the app with campus security systems and provide information such as campus safety resources, emergency contact numbers, and real-time alerts of any potential threats on campus.
+
+   - ##### Campus map integration: 
+
+     - Provide a campus map feature that allows users to easily navigate the campus and find safe routes to their destination.
+
+   - ##### Integration with student ID card:
+
+     -  Integrate the app with student ID card to allow users to quickly and easily access campus resources and services, such as emergency alert buttons located around campus.
+
+   - ##### Resources for students:
+
+     -  Provide resources for students, such as information on campus safety policies, sexual assault prevention and response, and mental health support services.
+
+   - ##### Customizable Safety Network: 
+
+     - Allow students to create a custom safety network of friends and campus security personnel, and send them alerts in case of emergency.
+
+   - ##### Campus events: 
+
+     - Provide information on campus events, such as parties, and allow users to rate the safety of the event and provide feedback to others.
+
+   - ##### Transportation: 
+
+     - Provide real-time data of campus transportation and next stop, which will be useful for women who use campus transportation.
+
+   - ##### Branding and marketing: 
+
+     - Differentiate the app through branding and marketing campaigns that focus on the specific needs and concerns of campus women students and promote the app as a tool for empowering them to take control of their safety on campus.
+
+   - ##### Safety Auditing:
+
+     -  Allow students to rate the safety of different areas on campus and provide feedback on how to improve safety.
+
+   - ##### Safety Feedback: 
+
+     - Provide an easy way for students to provide feedback on their experiences with the app and suggest new features or improvements.
